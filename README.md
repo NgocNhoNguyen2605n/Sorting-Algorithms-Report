@@ -1,4 +1,4 @@
-# Báo cáo Thử nghiệm Thuật toán Sắp xếp
+# Báo cáo thử nghiệm các thuật toán sắp xếp
 
 **Sinh viên thực hiện:** Nguyễn Ngọc Nhớ
 
